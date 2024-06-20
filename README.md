@@ -1,5 +1,7 @@
 Sistema de Biblioteca - README
 
+Mensagem para o Professor: Não sei o que houve, mas eu tive problemas com os imports e não consegui fazer funcionar com arquivos separados, quando for rodar o código, use Main.py, mas os arquivos separados estão todos na pasta código, se puder considerar o código na pasta código como a organização original do código, agradeço.
+
 Instale o MongoDB Compass, uma interface gráfica para MongoDB, para gerenciar o banco de dados. Você pode baixá-lo em MongoDB Compass Download.
 Python e pymongo:
 
